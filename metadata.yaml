@@ -1,0 +1,40 @@
+_repo: Devil-s-Ford_2286
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harte, Bret
+    alias: Harte, Francis Bret
+    birthdate: 1836
+    deathdate: 1902
+    gutenberg_agent_id: '593'
+    url: http://www.gutenberg.org/2009/agents/593
+    wikipedia: http://en.wikipedia.org/wiki/Bret_Harte
+description: It was a season of unequalled prosperity in Devil's Ford. The half a
+  dozen cabins scattered along the banks of the North Fork, as if by some overflow
+  of that capricious river, had become augmented during a week of fierce excitement
+  by twenty or thirty others, that were huddled together on the narrow gorge of Devil's
+  Spur, or cast up on its steep sides. So sudden and violent had been the change of
+  fortune, that the dwellers in the older cabins had not had time to change with it,
+  but still kept their old habits, customs, and even their old clothes. The flour
+  pan in which their daily bread was mixed stood on the rude table side by side with
+  the "prospecting pans", half full of gold washed up from their morning's work; the
+  front windows of the newer tenements looked upon the one single thoroughfare, but
+  the back door opened upon the uncleared wilderness, still haunted by the misshapen
+  bulk of bear or the nightly gliding of catamount.
+gutenberg_issued: '2006-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Frontier and pioneer life -- West (U.S.) -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Prospecting -- Fiction'
+- GITenberg
+title: Devil's Ford
+url: http://www.gutenberg.org/ebooks/2286
