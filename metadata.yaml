@@ -1,5 +1,8 @@
 _repo: Devil-s-Ford_2286
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harte, Bret
@@ -21,6 +24,8 @@ description: It was a season of unequalled prosperity in Devil's Ford. The half 
   front windows of the newer tenements looked upon the one single thoroughfare, but
   the back door opened upon the uncleared wilderness, still haunted by the misshapen
   bulk of bear or the nightly gliding of catamount.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2286#Devil-s-Ford
 gutenberg_issued: '2006-05-14'
 gutenberg_type: Text
 identifiers:
